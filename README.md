@@ -9,7 +9,7 @@
   - /requests - показывает все хранящиеся в базе данных запросы
   - /requests/{id: [0-9]+} - показывает конкретный запрос
   - /repeat/{id: [0-9]+} - повторяет конкретный запрос
-  - /scan/{id: [0-9]+} - сканирует на наличие уязвимостей конкретный хост. Алгоритм сканирования описан в разделе https://github.com/Famelbyby/web_safety_homework/edit/main/README.md#сканер-уязвимости
+  - /scan/{id: [0-9]+} - сканирует на наличие уязвимостей конкретный хост. Алгоритм сканирования описан в разделе https://github.com/Famelbyby/web_safety_homework/tree/main?tab=readme-ov-file#сканер-уязвимости
 ## Установка
 1. Переходим в директорию и прописываем `git clone https://github.com/Famelbyby/web_safety_homework.git` или `git clone git@github.com:Famelbyby/web_safety_homework.git`
 2. Переходим в директорию `web_safety_homework`
